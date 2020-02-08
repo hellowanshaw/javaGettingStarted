@@ -1,2 +1,2 @@
 # javaGettingStarted
-record the learning process of a java beginner
+record the learning process of a java beginner.
