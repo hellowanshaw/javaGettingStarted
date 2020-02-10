@@ -1,0 +1,26 @@
+/*读入整数，浮点数，字符串,使得其逆序输出；
+note:当读入浮点数后，要紧接一个nextLine();
+*/
+
+import java.util.Scanner;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int i = scan.nextInt();
+        double d = scan.nextDouble();
+        scan.nextLine();
+      
+        String s = scan.nextLine();
+     
+        System.out.println("String: " + s);
+        System.out.println("Double: " + d);
+        System.out.println("Int: " + i);
+    }
+}
+
+
+
+
